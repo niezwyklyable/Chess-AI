@@ -3,4 +3,4 @@ An advanced game with the minimax algorithm (a simple example of reinforcement l
 
 Requirements: pygame
 
-To run a game write in cmd: python main.py
+To run the game write in cmd: python main.py
