@@ -1,5 +1,5 @@
 # Chess-AI
-An advanced game with the minimax algorithm (a simple example of reinforcement learning) in pygame module
+An advanced game with the minimax algorithm (a simple example of AI) in pygame module
 
 Requirements: pygame
 
